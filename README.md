@@ -33,7 +33,7 @@ the most faithful Rainmeter recreation of the Activate Windows text overlay
 ## To Do
 
 - [ ] Watermark on different screen.(This Repo code configured for my monitor)
-- [ ] Add localization support.(This Readme.md used GPT5.6-sol,my English not very well......)
+- [ ] Add localization support.(This Readme.md used GPT5.6-sol)
 
 ## Attribution and License
 
